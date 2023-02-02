@@ -4,7 +4,6 @@
 
 #define HYP LS(LC(LA(LGUI)))
 #define MEH LS(LC(LALT))
-#define HYPER(key) LS(LC(LA(LG(key))))
 
 / {
   chosen {
